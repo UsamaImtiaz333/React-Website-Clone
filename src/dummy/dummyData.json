@@ -1,0 +1,63 @@
+export const dumm = [
+    {
+      id: 1,
+      title: "Sunset Over the Mountains",
+      description: "A beautiful sunset casting an orange glow over the mountain range.",
+      image: "https://via.placeholder.com/150/FF5733/FFFFFF?text=Sunset+Mountains"
+    },
+    {
+      id: 2,
+      title: "City Skyline at Night",
+      description: "The city skyline illuminated by thousands of lights at night.",
+      image: "https://via.placeholder.com/150/1ABC9C/FFFFFF?text=City+Skyline"
+    },
+    {
+      id: 3,
+      title: "Forest Trail",
+      description: "A peaceful trail winding through a dense forest.",
+      image: "https://via.placeholder.com/150/2ECC71/FFFFFF?text=Forest+Trail"
+    },
+    {
+      id: 4,
+      title: "Ocean Waves",
+      description: "Waves crashing onto a sandy beach under a clear blue sky.",
+      image: "https://via.placeholder.com/150/3498DB/FFFFFF?text=Ocean+Waves"
+    },
+    {
+      id: 5,
+      title: "Desert Dunes",
+      description: "Golden sand dunes stretching out under the hot desert sun.",
+      image: "https://via.placeholder.com/150/E74C3C/FFFFFF?text=Desert+Dunes"
+    },
+    {
+      id: 6,
+      title: "Snowy Mountains",
+      description: "Snow-covered peaks reflecting the morning sunlight.",
+      image: "https://via.placeholder.com/150/9B59B6/FFFFFF?text=Snowy+Mountains"
+    },
+    {
+      id: 7,
+      title: "Lush Green Valley",
+      description: "A vibrant green valley with a river flowing through it.",
+      image: "https://via.placeholder.com/150/27AE60/FFFFFF?text=Green+Valley"
+    },
+    {
+      id: 8,
+      title: "Rainforest Canopy",
+      description: "The dense and rich canopy of a tropical rainforest.",
+      image: "https://via.placeholder.com/150/2980B9/FFFFFF?text=Rainforest+Canopy"
+    },
+    {
+      id: 9,
+      title: "Autumn Leaves",
+      description: "Colorful autumn leaves scattered across the ground.",
+      image: "https://via.placeholder.com/150/F39C12/FFFFFF?text=Autumn+Leaves"
+    },
+    {
+      id: 10,
+      title: "Misty Morning Lake",
+      description: "A calm lake surrounded by trees on a misty morning.",
+      image: "https://via.placeholder.com/150/D35400/FFFFFF?text=Misty+Lake"
+    }
+  ];
+  
